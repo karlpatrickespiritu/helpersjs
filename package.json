@@ -1,0 +1,23 @@
+{
+  "name": "helpersjs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karlpatrickespiritu/helpersjs"
+  },
+  "author": "karlpatrickespiritu <wiwa.espiritu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpatrickespiritu/helpersjs/issues"
+  },
+  "homepage": "https://github.com/karlpatrickespiritu/helpersjs",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
